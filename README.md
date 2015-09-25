@@ -1,5 +1,7 @@
 #BarcodeScannerForPhoneGap
 
+[![Join the chat at https://gitter.im/mendix/BarcodeScannerForPhoneGap](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/mendix/BarcodeScannerForPhoneGap?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 The BarcodeScanner widget enables PhoneGap native barcode scanning functionality within your Mendix mobile application. This is a widget that will be functional from Mendix 5.10.
 
 ## Contributing
