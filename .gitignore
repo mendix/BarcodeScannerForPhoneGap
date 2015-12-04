@@ -1,10 +1,13 @@
-test/javasource/
+test/javasource/**/proxies/
+test/javasource/com/
+test/javasource/system/
 test/deployment/
 test/.classpath
 test/.project
 *.launch
 *.tmp
 *.lock
-*.bak
 .idea/
-*.mws
+*.bak
+settings/
+node_modules/
