@@ -6,6 +6,9 @@ The BarcodeScanner widget enables PhoneGap native barcode scanning functionality
 When Publishing this App for Mobile App Stores, add in the the Custom Phonegap/Cordova configuration the barcode plugin
 ``` xml
 <plugin name="phonegap-plugin-barcodescanner" />
+<edit-config target="NSCameraUsageDescription" file="*-Info.plist" mode="merge">
+    <string>To scan barcodes</string>
+</edit-config>
 ```
 
 ## Configuration
