@@ -60,7 +60,7 @@ define([
         },
 
         _barcodeFailure: function(error) {
-            mx.ui.error("Scanning failed: " + error.message);
+            mx.ui.error("Scanning failed: " + error);
         },
 
         _executeAction: function () {
