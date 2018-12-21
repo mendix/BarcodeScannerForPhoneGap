@@ -33,4 +33,4 @@ An optional microflow that will be triggered once the location has been retrieve
 An optional nanoflow that will be triggered once the location has been retrieved.
 
 ## Contributing
-For more information on contributing to this repository visit [Contributing to a GitHub repository](https://world.mendix.com/display/howto50/Contributing+to+a+GitHub+repository)!
+For more information on contributing to this repository visit [Contributing to a GitHub repository]( https://docs.mendix.com/howto/collaboration-requirements-management/contribute-to-a-github-repository)!
